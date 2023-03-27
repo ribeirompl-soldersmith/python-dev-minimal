@@ -1,0 +1,29 @@
+{
+  "name": "python-dev-minimal",
+  "displayName": "Python Dev Minimal",
+  "publisher": "ribeirompl-soldersmith",
+  "repository": "https://github.com/ribeirompl-soldersmith/python-dev-minimal",
+  "description": "Minimal collection of python extensions for remote system",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "alefragnani.project-manager",
+    "alexcvzz.vscode-sqlite",
+    "mechatroner.rainbow-csv",
+    "ms-python.black-formatter",
+    "ms-python.isort",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-ssh-edit",
+    "ms-vscode.remote-explorer",
+    "streetsidesoftware.code-spell-checker",
+    "vivaxy.vscode-conventional-commits",
+    "waderyan.gitblame"
+  ]
+}
