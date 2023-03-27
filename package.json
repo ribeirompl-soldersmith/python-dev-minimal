@@ -4,7 +4,7 @@
   "publisher": "ribeirompl-soldersmith",
   "repository": "https://github.com/ribeirompl-soldersmith/python-dev-minimal",
   "description": "Minimal collection of python extensions for remote system",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.76.0"
   },
